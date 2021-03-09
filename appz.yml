@@ -36,4 +36,3 @@ properties:
     MYSQL_ROOT_PASSWORD:
       vault: MYSQL_ROOT_PASSWORD_KEY
     revision : 25
-
